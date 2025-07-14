@@ -686,6 +686,7 @@ td.gutter {
 }
 
 
+/* leave some room under the avatar in the navbar --- */
 .avatar-spacer {
   height: 80px;
 }
@@ -693,5 +694,11 @@ td.gutter {
 @media only screen and (min-width: 768px) {
   .avatar-spacer {
     height: 120px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .avatar-spacer {
+    height: 140px;
   }
 }
