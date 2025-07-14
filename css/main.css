@@ -48,11 +48,11 @@ hr.small {
 }
 
 .main-content {
-  padding-top: 80px;
+  padding-top: 200px;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
-    padding-top: 130px;
+    padding-top: 230px;
   }
 }
 
@@ -164,8 +164,8 @@ img {
   -moz-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
   left: 50%;
-  width: 50px;
-  margin-top: -25px;
+  width: 100px;
+  margin-top: -50px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
@@ -192,8 +192,8 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 100px;
-    margin-top: -50px;
+    width: 180px;
+    margin-top: -90x;
   }
   
   .navbar-custom .avatar-container  .avatar-img-border {
@@ -683,4 +683,15 @@ td.gutter {
 
 #social-share-section {
   margin-bottom: 30px;
+}
+
+
+.avatar-spacer {
+  height: 80px;
+}
+
+@media only screen and (min-width: 768px) {
+  .avatar-spacer {
+    height: 120px;
+  }
 }
