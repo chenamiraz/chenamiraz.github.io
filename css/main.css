@@ -699,6 +699,6 @@ td.gutter {
 
 @media only screen and (max-width: 767px) {
   .avatar-spacer {
-    height: 140px;
+    height: 100px;
   }
 }
