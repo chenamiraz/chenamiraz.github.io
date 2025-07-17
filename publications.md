@@ -9,6 +9,7 @@ title: Publications and Manuscripts
   **Chen Amiraz**, Yaroslav Fyodorov, Elad Haramaty, Zohar Karnin, and Liane Lewin-Eytan  
   *Under review, 2025*  
   [Paper](https://www.arxiv.org/abs/2507.07543){: .btn} 
+  
 
 **Publications**
 
@@ -16,6 +17,8 @@ title: Publications and Manuscripts
   **Chen Amiraz**, Florin Cuconasu, Simone Filice, and Zohar Karnin  
   *ACL 2025 (oral presentation)*  
   [Paper](https://arxiv.org/abs/2505.06914){: .btn} 
+  [Slides](/static/projects/distracting_effect/ACL_2025_main-2310_slides.pdf){: .btn} 
+  [Poster](/static/projects/distracting_effect/ACL_2025_main-2310_poster.pdf){: .btn} 
 
 - **Recovery Guarantees for Distributed-OMP**  
   **Chen Amiraz**, Robert Krauthgamer, and Boaz Nadler  
