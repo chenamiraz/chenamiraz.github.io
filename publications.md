@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications and Manuscripts
+title: Research
 ---
 
 **New**
@@ -17,6 +17,7 @@ title: Publications and Manuscripts
   **Chen Amiraz**, Florin Cuconasu, Simone Filice, and Zohar Karnin  
   *ACL 2025 (oral presentation)*  
   [Paper](https://arxiv.org/abs/2505.06914){: .btn} 
+  [Video](https://youtu.be/_4_1GoQ1fRo){: .btn}
   [Slides](/static/projects/distracting_effect/ACL_2025_main-2310_slides.pdf){: .btn} 
   [Poster](/static/projects/distracting_effect/ACL_2025_main-2310_poster.pdf){: .btn} 
 
